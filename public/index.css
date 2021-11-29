@@ -1,0 +1,26 @@
+header {
+    display: flex;
+    background-image: white;
+    max-height: 15vh;
+}
+
+.header-right {
+    margin-left: auto;
+}
+.header-right img {
+    border-radius: 70%;
+}
+
+.header-left {
+    margin-left: auto;
+    margin-right: 10%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3vw;
+    color: rgb(185, 41, 241);
+}
